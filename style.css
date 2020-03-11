@@ -1,0 +1,27 @@
+.logo-topo {
+    display: block;
+    margin-left: auto;
+    margin-right: right;
+    width: 30%;
+}
+
+.logo-topo-legenda {
+    display: block;
+    margin-left: center;
+    margin-right: center;
+    width: 30%;
+}
+
+h1 {
+    text-shadow: 1px 1px #b8860b; 
+    display: block;
+    margin-left: center;
+    margin-right: center;   
+}
+
+.footer-image {
+    display: block;
+    margin-left: auto;
+    margin-right: right;
+    width: 100%;
+}
